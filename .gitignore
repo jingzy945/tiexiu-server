@@ -1,0 +1,12 @@
+# 游戏本体（不需要部署到服务器）
+game/
+main.py
+assets/
+*.pyc
+__pycache__/
+.venv/
+*.ogg
+*.mp3
+*.png
+*.ttf
+*.wav
